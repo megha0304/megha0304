@@ -1,5 +1,5 @@
 
-![Quantum Enthusiast ](![image](https://user-images.githubusercontent.com/74877752/178560862-f2212550-4137-4b9f-82cb-497dbcec53e0.png)
+![Quantum Enthusiast ](![image](https://media-exp2.licdn.com/dms/image/C4D16AQFVrwazZJscPA/profile-displaybackgroundimage-shrink_350_1400/0/1656609802216?e=1663200000&v=beta&t=unD2iDtaGR5wnrYi1PhaR6rd7IkBg4YXTHjMBJ_sPwo)
 )
 ### Hi there 👋, it's QC_Maniac
 #### Quantum Enthusiast 
