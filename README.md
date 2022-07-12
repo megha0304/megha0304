@@ -31,6 +31,5 @@ PYTHON/ JS / HTML / CSS/ JAVA
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=megha0304)  
 
-![Profile views](https://gpvc.arturio.dev/megha0304)  
 
  
