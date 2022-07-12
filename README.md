@@ -1,5 +1,6 @@
 
-![Quantum Enthusiast ](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/308445iD135FCF35E406A6B/image-size/large?v=v2&px=999)
+![Quantum Enthusiast ](![image](https://user-images.githubusercontent.com/74877752/178560862-f2212550-4137-4b9f-82cb-497dbcec53e0.png)
+)
 ### Hi there 👋, it's QC_Maniac
 #### Quantum Enthusiast 
 I am Megha Pandey from India, a Quantum Enthusiast who loves to explore the field of Quantum Computing with emerging technologies like cryptography, Machine learning, Artificial Intelligence, and much more!
