@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋, it's QC_Maniac
 #### Quantum Enthusiast 
 ![Quantum Enthusiast ](https://media-exp2.licdn.com/dms/image/C4D16AQFVrwazZJscPA/profile-displaybackgroundimage-shrink_350_1400/0/1656609802216?e=1663200000&v=beta&t=unD2iDtaGR5wnrYi1PhaR6rd7IkBg4YXTHjMBJ_sPwo)
@@ -19,6 +17,4 @@ Skills: PYTHON/ JS / HTML / CSS/ JAVA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/megha0304)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/qc_maniac//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Meg_0103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qwiklabs.svg' alt='qwiklabs' height='40'>](https://www.cloudskillsboost.google/public_profiles/d91de2fa-c3e9-41ee-97d1-5a8ac19a18cb)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/megha0304)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/megha0304)  
+ 
