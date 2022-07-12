@@ -8,9 +8,9 @@ I am Megha Pandey from India, a Quantum Enthusiast who loves to explore the fiel
 
 ## Interests 
 <img src="https://github.com/megha0304/megha0304/blob/main/2.gif">
-<img src="https://github.com/megha0304/megha0304/blob/main/4.gif">
 
-Skills: PYTHON/ JS / HTML / CSS/ JAVA
+## Skills:
+PYTHON/ JS / HTML / CSS/ JAVA
 
 - 🔭 I’m currently working on QML 
 - 🌱 I’m currently learning Quantum Mechanics 
