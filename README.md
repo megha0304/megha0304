@@ -16,7 +16,8 @@ Skills: PYTHON/ JS / HTML / CSS/ JAVA
 - 🌱 I’m currently learning Quantum Mechanics 
 - 📫 How to reach me: meghapandey0304@gmail.com 
 - 😄 Pronouns: She/Her/Hers 
-- ⚡ Fun fact: Loves watching KDrama 
+- ⚡ Fact: I love myself :purple_heart:
+-  :grin: Songs: 21st Century Girl :sunglasses:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/megha0304)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/qc_maniac//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Meg_0103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qwiklabs.svg' alt='qwiklabs' height='40'>](https://www.cloudskillsboost.google/public_profiles/d91de2fa-c3e9-41ee-97d1-5a8ac19a18cb)  
