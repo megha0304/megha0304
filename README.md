@@ -5,8 +5,8 @@
 #### Quantum Enthusiast 
 I am Megha Pandey from India, a Quantum Enthusiast who loves to explore the field of Quantum Computing with emerging technologies like cryptography, Machine learning, Artificial Intelligence, and much more!
 
-##INTERESTS
- :grinning:
+## My Repos
+<img src="https://megha0304.github.io/glowingcircle/">
 
 Skills: PYTHON/ JS / HTML / CSS/ JAVA
 
