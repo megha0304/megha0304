@@ -3,7 +3,7 @@
 
 ## Hi there 👋, it's QC_Maniac
 #### Quantum Enthusiast
-### Intern at STEMIAC | Google Cloud Ready Facilitator~2022| Gold Microsoft Learn Student Ambassador| Fe'stem Co-founder| Quantum Enthusiast
+###  Google Cloud Ready Facilitator~2022| Gold Microsoft Learn Student Ambassador| Fe'stem Co-founder| Quantum Enthusiast
 I am Megha Pandey from India, a Quantum Enthusiast who loves to explore the field of Quantum Computing with emerging technologies like cryptography, Machine learning, Artificial Intelligence, and much more!
 
 ## Interests 
