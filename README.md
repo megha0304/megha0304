@@ -1,5 +1,5 @@
 
-![image](https://media-exp2.licdn.com/dms/image/C4D16AQFVrwazZJscPA/profile-displaybackgroundimage-shrink_350_1400/0/1656609802216?e=1663200000&v=beta&t=unD2iDtaGR5wnrYi1PhaR6rd7IkBg4YXTHjMBJ_sPwo)
+![image](https://media-exp1.licdn.com/dms/image/C4D16AQECWdT3COFSrA/profile-displaybackgroundimage-shrink_350_1400/0/1660588932563?e=1666224000&v=beta&t=RvZjeEm54Bjwg05SV13-GcNSXh2E3aK4WbTexA7idPw)
 
 ## Hi there 👋, it's Decacolmania 
 #### Quantum Enthusiast
