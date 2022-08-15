@@ -1,7 +1,7 @@
 
 ![image](https://media-exp2.licdn.com/dms/image/C4D16AQFVrwazZJscPA/profile-displaybackgroundimage-shrink_350_1400/0/1656609802216?e=1663200000&v=beta&t=unD2iDtaGR5wnrYi1PhaR6rd7IkBg4YXTHjMBJ_sPwo)
 
-## Hi there 👋, it's QC_Maniac
+## Hi there 👋, it's Decacolmania 
 #### Quantum Enthusiast
 ###  Google Cloud Ready Facilitator~2022| Gold Microsoft Learn Student Ambassador| Quantum Enthusiast
 I am Megha Pandey from India, a Quantum Enthusiast who loves to explore the field of Quantum Computing with emerging technologies like cryptography, Machine learning, Artificial Intelligence, and much more!
