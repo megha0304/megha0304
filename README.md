@@ -1,7 +1,7 @@
 
 
 
-![image]([https://pbs.twimg.com/profile_banners/1493192402776903681/1686909096/1080x360](https://pbs.twimg.com/media/FyqU8GcXgAMHux4?format=jpg&name=large))
+![image](https://pbs.twimg.com/profile_banners/1493192402776903681/1686909096/1080x360](https://pbs.twimg.com/media/FyqU8GcXgAMHux4?format=jpg&name=large )
 
 ## Hi there 👋, it's Decacolmania 
 #### Quantum Enthusiast
