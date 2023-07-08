@@ -1,7 +1,7 @@
 
 
 
-![image]( https://twitter.com/hackmum/status/1669313186921578496/photo/1 )
+![image](https://twitter.com/hackmum/status/1669313186921578496/photo/1](https://pbs.twimg.com/media/FyqU8GcXgAMHux4?format=jpg&name=large )
 
 ## Hi there 👋, it's Decacolmania 
 #### Quantum Enthusiast
