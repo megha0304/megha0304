@@ -1,7 +1,7 @@
 
 
 
-![image](https://media-exp1.licdn.com/dms/image/C4D16AQECWdT3COFSrA/profile-displaybackgroundimage-shrink_350_1400/0/1660588932563?e=1671667200&v=beta&t=fhcSQC8-v6LQW9Wxa1TmVWGTZBmdv9LU8_8bK6WpYHc)
+![image](https://pbs.twimg.com/profile_banners/1493192402776903681/1686909096/1080x360)
 
 ## Hi there 👋, it's Decacolmania 
 #### Quantum Enthusiast
