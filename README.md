@@ -4,7 +4,7 @@
  
  ```diff
  @@ Hi there 👋, it's Decacolmania @@
- ...
+ ```
 
 
 
