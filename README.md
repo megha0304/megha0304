@@ -3,12 +3,16 @@
 
  
  ```diff
- @@ Hi there 👋, it's Decacolmania @@
+ @@ Hi there 👋, it's Decacolmania 
+ ```
+ ```diff
+ @@ Interests
  ```
 
 
-
-## I AM A: 
+ ```diff
+ @@ Iam a 
+ ```
 
 
 - 🔭 I’m currently working on QML 
