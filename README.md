@@ -20,7 +20,7 @@ I am Megha Pandey from India, a Quantum Enthusiast who loves to explore the fiel
 
 
   
-[<img src='icons/icons8-github-50.png' alt='github' height='40'>](https://github.com/megha0304) [<img src='icons/icons8-instagram-100.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src=https://icons8.com/icon/hFoVFpm6gl9A/instagram alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/qc_maniac//)   [<img src='https://icons8.com/icon/9J37goKb44e7/qwiklabs-provides-real-cloud-environments-that-help-developers' alt='qwiklabs' height='40'>](https://www.cloudskillsboost.google/public_profiles/d91de2fa-c3e9-41ee-97d1-5a8ac19a18cb) 
+[<img src='icons/icons8-github-50.png' alt='github' height='60'>](https://github.com/megha0304) [<img src='icons/icons8-linkedin-50.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src=icons/icons8-instagram-100.png alt='instagram' height='60'>](https://www.instagram.com/https://www.instagram.com/qc_maniac//)   [<img src='icons/icons8-qwiklabs-provides-real-cloud-environments-that-help-developers-24.png' alt='qwiklabs' height='60'>](https://www.cloudskillsboost.google/public_profiles/d91de2fa-c3e9-41ee-97d1-5a8ac19a18cb) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megha0304)](https://github.com/anuraghazra/github-readme-stats)
