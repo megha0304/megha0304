@@ -2,7 +2,7 @@
 
 
  
-<font color="PURPLE">  Hi there 👋, it's Decacolmania </font>
+ #8E0F7E Hi there 👋, it's Decacolmania </font>
  
 
 
