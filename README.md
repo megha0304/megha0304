@@ -2,8 +2,9 @@
 
 
  
- #8E0F7E Hi there 👋, it's Decacolmania </font>
- 
+ ```diff
+ @@ Hi there 👋, it's Decacolmania @@
+ ...
 
 
 
