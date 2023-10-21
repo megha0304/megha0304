@@ -12,7 +12,7 @@
 <img src='icons/icons8-books-48.png' alt='icons/icons8-books-48'>
  
 ## I am a 
-[<img src='icons/GOLDMLSA.jpeg' height='70'>] [<img src='icons/MVP.jpeg'height='70'>] [<img src='icons/WTM.jpeg'height='70'>]
+[<img src='icons/GOLDMLSA.jpeg' height='70'>] [<img src='icons/MVP.jpeg' height='70'>] [<img src='icons/WTM.jpeg' height='70'>]
 
 
 - 🔭 I’m currently working as a Wipro Scholar Trainee 
