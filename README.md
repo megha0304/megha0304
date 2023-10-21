@@ -3,16 +3,18 @@
 
  
  
- ## Hi there 👋, it's Decacolmania
- 
+ <html> <body><style> <font="purple"> Hi there 👋, it's Decacolmania </style>
+ </body> </html>
  ## Interests
  
 ## I am a 
-[<img src='icons/GOLDMLSA.jpeg' height="70"]
+<img src='icons/GOLDMLSA.jpeg' height="70" width="40'>
+<img src='icons/mvp.jpeg' height="70" width="40">
+<img src='icons/wtm.jpeg' height="70" width="40>
 
 
 - 🔭 I’m currently working as a Wipro Scholar Trainee 
-- 🌱 I’m currently learning: a lot of new things 
+- 🌱 I’m  learning a lot of new things 
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her/Hers 
 - ⚡ Fact: I love myself :purple_heart:
