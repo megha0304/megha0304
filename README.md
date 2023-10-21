@@ -8,9 +8,9 @@
  ## Interests
  
 ## I am a 
-<img src='icons/GOLDMLSA.jpeg' height="70" width="40'>
-<img src='icons/mvp.jpeg' height="70" width="40">
-<img src='icons/wtm.jpeg' height="70" width="40>
+[<img src='icons/GOLDMLSA.jpeg'>]
+[<img src='icons/mvp.jpeg'>]
+[<img src='icons/WTM.jpeg'>]
 
 
 - 🔭 I’m currently working as a Wipro Scholar Trainee 
