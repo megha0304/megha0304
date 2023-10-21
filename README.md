@@ -2,8 +2,9 @@
 
 
  
-@@ Hi there 👋, it's Decacolmania @@
-@@ Interests @@
+<font color="PURPLE">  Hi there 👋, it's Decacolmania </font>
+ 
+
 
 
 ## I AM A: 
