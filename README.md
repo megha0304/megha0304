@@ -1,9 +1,9 @@
 ![image](https://pbs.twimg.com/media/FyqU8GcXgAMHux4?format=jpg&name=large )
 
 
-
-## Hi there 👋, it's Decacolmania 
-## Interests 
+ 
+@@ Hi there 👋, it's Decacolmania @@
+@@ Interests @@
 
 
 ## I AM A: 
@@ -14,7 +14,7 @@
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her/Hers 
 - ⚡ Fact: I love myself :purple_heart:
--  :grin: Geners: K-pop, Punjabi , Hindi :sunglasses:
+-  :grin: Genres: K-pop, Punjabi, Hindi :sunglasses:
 
 
   
@@ -23,7 +23,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megha0304&show_icons=true&theme=gruvbox)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=megha0304&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=megha0304&bg_color=fffff0&color=8E0F7E&line=24292e&point=24292e&area=true&hide_border=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=megha0304)  
 
