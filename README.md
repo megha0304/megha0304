@@ -8,7 +8,7 @@
  ## Interests
  
 ## I am a 
-
+[<img src='icons/GOLDMLSA.jpeg' height="70"]
 
 
 - 🔭 I’m currently working as a Wipro Scholar Trainee 
