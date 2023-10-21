@@ -3,20 +3,20 @@
 
  
  ```diff
- @@ Hi there 👋, it's Decacolmania 
+ @@ Hi there 👋, it's Decacolmania @@
  ```
  ```diff
- @@ Interests
+ @@ Interests @@
  ```
 
 
  ```diff
- @@ Iam a 
+ @@ I am a @@
  ```
 
 
-- 🔭 I’m currently working on QML 
-- 🌱 I’m currently Hustling
+- 🔭 I’m currently working as a Wipro Scholar Trainee 
+- 🌱 I’m currently learning: a lot of new things 
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her/Hers 
 - ⚡ Fact: I love myself :purple_heart:
