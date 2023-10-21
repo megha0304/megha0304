@@ -2,17 +2,13 @@
 
 
  
- ```diff
- @@ Hi there 👋, it's Decacolmania @@
- ```
- ```diff
- @@ Interests @@
- ```
+ 
+ ## Hi there 👋, it's Decacolmania
+ 
+ ## Interests
+ 
+## I am a 
 
-
- ```diff
- @@ I am a @@
- ```
 
 
 - 🔭 I’m currently working as a Wipro Scholar Trainee 
