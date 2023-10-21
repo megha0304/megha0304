@@ -4,6 +4,8 @@
  
  
 ## Hi there 👋, it's Decacolmania 
+As a SIM at Wipro, I work with diverse teams to deliver innovative solutions for clients across various domains and industries. I am passionate about exploring the challenges and opportunities of new technologies, especially quantum computing and artificial intelligence. I have a certificate in quantum computing from The Coding School, and I was a quantum AI engineer intern at STEMIAC, where I applied quantum machine learning algorithms to real-world problems.
+
 
 ## Interests
 
