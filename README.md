@@ -29,7 +29,7 @@ As a SIM at Wipro, I work with diverse teams to deliver innovative solutions for
 [<img src='icons/icons8-github-50.png' alt='github' height='60'>](https://github.com/megha0304) [<img src='icons/icons8-linkedin-50.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src=icons/icons8-instagram-100.png alt='instagram' height='60'>](https://www.instagram.com/https://www.instagram.com/qc_maniac//)   [<img src='icons/icons8-qwiklabs-provides-real-cloud-environments-that-help-developers-24.png' alt='qwiklabs' height='40'>](https://www.cloudskillsboost.google/public_profiles/d91de2fa-c3e9-41ee-97d1-5a8ac19a18cb) 
 
 
-![megha0304's Stats](https://github-readme-stats.vercel.app/api?username=megha0304&theme=radical&show_icons=true&hide_border=false&count_private=true))  
+![megha0304's Stats](https://github-readme-stats.vercel.app/api?username=megha0304&theme=radical&show_icons=true&hide_border=false&count_private=true) 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=megha0304&bg_color=fffff0&color=8E0F7E&line=24292e&point=24292e&area=true&hide_border=true)
 
