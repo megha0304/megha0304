@@ -1,30 +1,38 @@
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<h1>
-  <a href="" class="typewrite" data-period="2000" data-type='[ "Hi there 👋, itsDecacolmania "," Learning the extent of using technology" ]'>
-    <span class="wrap"></span>
-  </a>
-</h1>
+## Hii it's Megha Pandey :wave:
+Quantum whiz, community champ, and lifelong learner—that's Me!
+## Interets that vary |1️⃣⟩−|0️⃣⟩
 
-## Interests
-
-<img src='icons/icons8-visual-studio-48.png' alt='icons/icons8-visual-studio-4'><img src='icons/icons8-music-48.png' alt='icons/icons8-music-48'><img src='icons/icons8-books-48.png' alt='icons/icons8-books-48'>
+<img src='icons/azure.png' height='70'><img src='icons/download.png' height='70'><img src='icons/gc.png' height='70'><img src='icons/opencv.png' height='70'><img src='icons/qc.png' height='70'> <img src='icons/webdev.png' height='70' ><img src='icons/windows.png' height='70'>
  
 ## I am a 
-<img src='icons/GOLDMLSA.jpeg' height='70'> <img src='icons/MVP.jpeg' height='70'> <img src='icons/WTM.jpeg' height='70'>
+
+- 🎴  System Engineer at WIPRO 
+- 👾Windows Insider MVP 2023
+- 🎴Student at BITS Pilani  
+- 👾Women Techmaker Ambassadors  
+- 🎴Speaker and Mentor of QC 
+- 👾Microsoft Gold Learn Student Ambassador
+- 🎴Busy on Research of QML Algorithms
+
+ 
+[<img src='icons/github.png' alt='github' height='60'>](https://github.com/megha0304) [<img src='icons/linkedin.jpeg' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src='icons/instagram.jpeg' alt='instagram' height='60'>](https://www.instagram.com/decalcomania.3/)   [<img src='icons/twitter.png' alt='qwiklabs' height='60'>](https://x.com/meg_0103) 
+[<img src='icons/medium.png' alt='qwiklabs' height='60'>](https://medium.com/@meghapandey0304) 
+
+## Watch out my Youtube videos here : 
+[<img src= '(https://youtu.be/rjP-NZ9nk30?si=VM_196xR5PHUBwfs/0.jpg)'>](https://youtu.be/rjP-NZ9nk30?si=VM_196xR5PHUBwfs)
 
 
-- 🔭 I’m currently working as a System Engineer @wipro 
-- 🌱 I’m  learning a lot of new things 
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: She/Her/Hers 
-- ⚡ Fact: I love myself :purple_heart:
--  :grin: Genres: K-pop, Punjabi, Hindi :sunglasses:
+
+[<img src= 'https://www.youtube.com/live/xsnqReXgQ7s?si=N6LMTklf0MQ4zQpb/0.jpg'>](https://www.youtube.com/live/xsnqReXgQ7s?si=3QNitJZipbRFel5N)
 
 
-![Dino Game](icons/gifsurf.gif)  
-[<img src='icons/icons8-github-50.png' alt='github' height='60'>](https://github.com/megha0304) [<img src='icons/icons8-linkedin-50.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src=icons/icons8-instagram-100.png alt='instagram' height='60'>](https://www.instagram.com/https://www.instagram.com/qc_maniac//)   [<img src='icons/icons8-qwiklabs-provides-real-cloud-environments-that-help-developers-24.png' alt='qwiklabs' height='40'>](https://www.cloudskillsboost.google/public_profiles/d91de2fa-c3e9-41ee-97d1-5a8ac19a18cb) 
+
+|      Topic | About          | Links                          |
+| ------------- |:-------------:| -----:|
+| A Tour to Space with Azure Orbital  Feat. Megha Pandey    |  | https://www.youtube.com/live/xsnqReXgQ7s?si=7c61s2yXQrhjPOn0|
+|Quantum Computing for the Future   | The session focuses on how Quantum Computing as an emerging technology along with Azure resources is going to change the future of computing and work on the optimization and simulation of quantum bits with minimum runtime.     |   https://youtu.be/rjP-NZ9nk30?si=0Jn5m7rZMhUMwrsl |
+|Deploy and Manage : Azure Static Web App by Megha Pandey | Say goodbye to complex server setups and hello to seamless deployment and management. In this guide, we'll embark on a journey to deploy and manage your web applications effortlessly on Azure Static Web Apps.    |   https://youtu.be/9dzjUi6VWXA?si=gDvhZ3FLzAgIf-hq|
+
 
 
 ![megha0304's Stats](https://github-readme-stats.vercel.app/api?username=megha0304&theme=radical&show_icons=true&hide_border=false&count_private=true) 
