@@ -1,13 +1,11 @@
-![Dino Game](icons/gifsurf.gif)
-
-
-
-
- 
- 
-## Hi there 👋, it's Decacolmania 
-As a SIM at Wipro, I work with diverse teams to deliver innovative solutions for clients across various domains and industries. I am passionate about exploring the challenges and opportunities of new technologies, especially quantum computing and artificial intelligence. I have a certificate in quantum computing from The Coding School, and I was a quantum AI engineer intern at STEMIAC, where I applied quantum machine learning algorithms to real-world problems.
-
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<h1>
+  <a href="" class="typewrite" data-period="2000" data-type='[ "Hi there 👋, itsDecacolmania "," Learning the extent of using technology" ]'>
+    <span class="wrap"></span>
+  </a>
+</h1>
 
 ## Interests
 
@@ -17,7 +15,7 @@ As a SIM at Wipro, I work with diverse teams to deliver innovative solutions for
 <img src='icons/GOLDMLSA.jpeg' height='70'> <img src='icons/MVP.jpeg' height='70'> <img src='icons/WTM.jpeg' height='70'>
 
 
-- 🔭 I’m currently working as a Wipro Scholar Trainee 
+- 🔭 I’m currently working as a System Engineer @wipro 
 - 🌱 I’m  learning a lot of new things 
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her/Hers 
@@ -25,7 +23,7 @@ As a SIM at Wipro, I work with diverse teams to deliver innovative solutions for
 -  :grin: Genres: K-pop, Punjabi, Hindi :sunglasses:
 
 
-  
+![Dino Game](icons/gifsurf.gif)  
 [<img src='icons/icons8-github-50.png' alt='github' height='60'>](https://github.com/megha0304) [<img src='icons/icons8-linkedin-50.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src=icons/icons8-instagram-100.png alt='instagram' height='60'>](https://www.instagram.com/https://www.instagram.com/qc_maniac//)   [<img src='icons/icons8-qwiklabs-provides-real-cloud-environments-that-help-developers-24.png' alt='qwiklabs' height='40'>](https://www.cloudskillsboost.google/public_profiles/d91de2fa-c3e9-41ee-97d1-5a8ac19a18cb) 
 
 
