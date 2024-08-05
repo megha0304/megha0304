@@ -2,7 +2,7 @@
 Quantum whiz, community champ, and lifelong learner—that's Me!
 ## Interets that vary |1️⃣⟩−|0️⃣⟩
 
-<img src='icons/azure.png' height='70'><img src='icons/download.png' height='70'><img src='icons/gc.png' height='70'><img src='icons/opencv.png' height='70'><img src='icons/qc.png' height='70'> <img src='icons/webdev.png' height='70' ><img src='icons/windows.png' height='70'>
+<img src='icons/azure.png' height='70'><img src='icons/download.png' height='70'><img src='icons/gc.png' height='70'><img src='icons/qiskit.png' height='70'><img src='icons/qc.png' height='70'> <img src='icons/webdev.png' height='70' ><img src='icons/windows.png' height='70'>
  
 ## I am a 
 
