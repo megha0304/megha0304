@@ -19,13 +19,6 @@ Quantum whiz, community champ, and lifelong learner—that's Me!
 [<img src='icons/medium.png' alt='qwiklabs' height='60'>](https://medium.com/@meghapandey0304) 
 
 ## Watch out my Youtube videos here : 
-[<img src= '(https://youtu.be/rjP-NZ9nk30?si=VM_196xR5PHUBwfs/0.jpg)'>](https://youtu.be/rjP-NZ9nk30?si=VM_196xR5PHUBwfs)
-
-
-
-[<img src= 'https://www.youtube.com/live/xsnqReXgQ7s?si=N6LMTklf0MQ4zQpb/0.jpg'>](https://www.youtube.com/live/xsnqReXgQ7s?si=3QNitJZipbRFel5N)
-
-
 
 |      Topic | About          | Links                          |
 | ------------- |:-------------:| -----:|
