@@ -16,8 +16,7 @@ Quantum whiz, community champ, and lifelong learner—that's Me!
 - 🎴Busy on Research of QML Algorithms
 
  
-[<img src='icons/github.png' alt='github' height='60'>](https://github.com/megha0304) [<img src='icons/linkedin.jpeg' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/megha-pandey-a1a5721ba/)  [<img src='icons/instagram.jpeg' alt='instagram' height='60'>](https://www.instagram.com/decalcomania.3/)   [<img src='icons/twitter.png' alt='qwiklabs' height='60'>](https://x.com/meg_0103) 
-[<img src='icons/medium.png' alt='qwiklabs' height='60'>](https://medium.com/@meghapandey0304) 
+
 
 ## Watch out my YouTube videos here : 
 
