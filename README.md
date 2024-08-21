@@ -1,13 +1,20 @@
 ## Hii it's Megha Pandey :wave:
 Quantum whiz, community champ, and lifelong learner—that's Me!
 
-## Interests that vary |1️⃣⟩−|0️⃣⟩
+## Interests that may vary |1️⃣⟩−|0️⃣⟩
 
+- 👾Azure 
+- 💜 GCP
+- 👾 Qiskit 
+- 💜 Quantum
+- 👾Windows
+- 💜Web Development
+- 👾 Cisco Packet Tracer
 <img src='icons/azure.png' height='70'><img src='icons/download.png' height='70'><img src='icons/gc.png' height='70'><img src='icons/qiskit.png' height='70'><img src='icons/qc.png' height='70'> <img src='icons/webdev.png' height='70' ><img src='icons/windows.png' height='70'>
  
 ## I am a 
 
-- 🎴  System Engineer at WIPRO 
+- 🎴 System Engineer at WIPRO 
 - 👾Windows Insider MVP 2023
 - 🎴Student at BITS Pilani  
 - 👾Women Techmaker Ambassadors  
