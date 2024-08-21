@@ -10,8 +10,7 @@ Quantum whiz, community champ, and lifelong learner—that's Me!
 - 👾Windows
 - 💜Web Development
 - 👾 Cisco Packet Tracer
-<img src='icons/azure.png' height='70'><img src='icons/download.png' height='70'><img src='icons/gc.png' height='70'><img src='icons/qiskit.png' height='70'><img src='icons/qc.png' height='70'> <img src='icons/webdev.png' height='70' ><img src='icons/windows.png' height='70'>
- 
+
 ## I am a 
 
 - 🎴 System Engineer at WIPRO 
