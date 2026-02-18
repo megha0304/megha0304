@@ -13,7 +13,7 @@ Quantum whiz, community champ, and lifelong learner—that's Me!
 
 ## I am a 
 
-- 🎴 System Engineer at WIPRO 
+- 🎴 Network Engineer at WIPRO 
 - 👾Windows Insider MVP 2023
 - 🎴Student at BITS Pilani  
 - 👾Women Techmaker Ambassadors  
