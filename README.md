@@ -34,7 +34,7 @@ Quantum whiz, community champ, and lifelong learner—that's Me!
 
 
 
-![megha0304's Stats](https://github-readme-stats.vercel.app/api?username=megha0304&theme=radical&show_icons=true&hide_border=false&count_private=true) 
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=megha0304&bg_color=fffff0&color=8E0F7E&line=24292e&point=24292e&area=true&hide_border=true)
 
